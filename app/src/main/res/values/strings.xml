@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ict939_lab5</string>
+    <string name="map_img">Map Image</string>
+    <string name="btm_txt">SELECT A ZONE TO CONTINUE</string>
+    <string name="button_1">X</string>
+    <string name="button_2">G</string>
+    <string name="button_3">B</string>
+    <string name="button_4">D</string>
+    <string name="button_5">R</string>
+    <string name="button_6">TY</string>
+    <string name="button_7">TR</string>
+    <string name="zone_nameS">ZONE NAME</string>
+    <string name="dino_total">Dinosaurs: 10</string>
+    <string name="guest_total">Guests: 23</string>
+    <string name="relocate_btn">RELOCATE A DINOSAUR</string>
+    <string name="newDino">Dinosaur Name:</string>
+    <string name="newZone">New Zone:</string>
+    <string name="relo">RELOCATE</string>
+    <string name="map">MAP</string>
+
+</resources>
